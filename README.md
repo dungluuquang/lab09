@@ -86,27 +86,33 @@ test_saucedemo.py::test_tc06_logout PASSED                               [100%]
 
 **TC01 — Đăng nhập thành công, trang danh sách sản phẩm:**
 
-![TC01](screenshots/tc01-login-success.png)
+<img width="1280" height="757" alt="image" src="https://github.com/user-attachments/assets/ed6037cc-18d4-47f5-a55f-16382991761a" />
+
 
 **TC02 — Thông báo lỗi khi đăng nhập sai mật khẩu:**
 
-![TC02](screenshots/tc02-login-fail.png)
+<img width="1280" height="757" alt="image" src="https://github.com/user-attachments/assets/fb4e2ca1-3999-48d1-9ba8-5db092fc1f46" />
+
 
 **TC03 — Giỏ hàng chứa sản phẩm đã thêm:**
 
-![TC03](screenshots/tc03-cart.png)
+<img width="1280" height="757" alt="image" src="https://github.com/user-attachments/assets/9e189a81-bef0-432b-a8e3-658c29925072" />
+
 
 **TC04 — Sản phẩm đã sắp xếp theo giá tăng dần:**
 
-![TC04](screenshots/tc04-sort-price.png)
+<img width="1280" height="757" alt="image" src="https://github.com/user-attachments/assets/8a5a9f0a-8f62-4f5a-8cea-b5f9b73f1731" />
+
 
 **TC05 — Đặt hàng thành công:**
 
-![TC05](screenshots/tc05-checkout-complete.png)
+<img width="1280" height="757" alt="image" src="https://github.com/user-attachments/assets/fc7f6907-4abe-4bca-9bda-fb73e41e1858" />
+
 
 **TC06 — Sau khi đăng xuất, quay về trang đăng nhập:**
 
-![TC06](screenshots/tc06-logout.png)
+<img width="1280" height="757" alt="image" src="https://github.com/user-attachments/assets/b8fb09da-5441-410a-aa89-f20b7fd22ee9" />
+
 
 ## 7. Nhận xét và kết luận
 
